@@ -57,10 +57,9 @@ MySQL
 ## 🏗️ Project Structure
 
 Mansparsh/
-│── src/
 │── web/
 │── database/
-│── README.md
+
 
 ---
 
@@ -103,8 +102,7 @@ For educational purposes only.
 ---
 
 ## 👩‍💻 Author
-
-Your Name
+Ayushi
 
 ---
 
